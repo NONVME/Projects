@@ -25,7 +25,7 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
+- [Numbers](/Projects#numbers)
 - [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
 - [Graph](https://github.com/karan/Projects#graph)
 - [Data Structures](https://github.com/karan/Projects#data-structures)
@@ -46,7 +46,7 @@ Numbers
 
 [**Find e to the Nth Digit**](Numbers/Find_e_to_the_Nth_Digit.py) - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[**Fibonacci Sequence**](Numbers/Fibonacci_Sequence.py) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
