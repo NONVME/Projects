@@ -25,7 +25,7 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](/Projects#numbers)
+- [Numbers](#numbers)
 - [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
 - [Graph](https://github.com/karan/Projects#graph)
 - [Data Structures](https://github.com/karan/Projects#data-structures)
